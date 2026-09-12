@@ -91,7 +91,7 @@ Some of the major findings from the analysis include:
 CodeAlpha_AdidasSalesAnalysis/
 │
 ├── Adidas_Sales_Analysis.ipynb
-├── Adidas_sales (1).csv
+├── Adidas_sales.csv
 ├── README.md
 │
 └── charts/
