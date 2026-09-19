@@ -101,4 +101,4 @@ CodeAlpha_AdidasSalesAnalysis/
     ├── total_sales_by_sales_method.png
     ├── monthly_adidas_sales_trend.png
     ├── units_sold_vs_total_sales.png
-    └── product_sales_by_method.png
+    └── total_sales_by_product_and_sales_method.png
