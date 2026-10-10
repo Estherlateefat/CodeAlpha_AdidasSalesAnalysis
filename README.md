@@ -102,3 +102,36 @@ CodeAlpha_AdidasSalesAnalysis/
     ├── monthly_adidas_sales_trend.png
     ├── units_sold_vs_total_sales.png
     └── total_sales_by_product_and_sales_method.png
+Project Files
+
+Adidas_Sales_Analysis.ipynb — Jupyter Notebook containing the analysis and results.
+
+Adidas_sales (1).csv — dataset used for the analysis.
+
+charts/ — visualizations generated during the project, if included in the repository.
+
+How to Run the Project
+
+Download or clone this repository.
+
+Install Python and the required libraries: pandas, matplotlib, and seaborn.
+
+Open Adidas_Sales_Analysis.ipynb in Jupyter Notebook.
+
+Ensure the dataset is available at the file path used in the notebook.
+
+Run the notebook cells to reproduce the analysis and visualizations.
+
+Conclusion
+
+This project demonstrates the use of exploratory data analysis and data visualization to investigate retail sales performance and communicate data-driven findings.
+
+Author
+
+Suara Lateefat Esther
+
+GitHub: Estherlateefat
+
+Internship
+
+CodeAlpha Data Analytics Internship — Adidas Sales Analysis (EDA and Data Visualization).
